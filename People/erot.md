@@ -6,7 +6,7 @@
 
 my name is **Erot Sammy** i am a kenyan by natinality age **24**
 
-### What motivates me
+## What motivates me
 
 I am a results-oriented **HTML, CSS and JavaScript** programmer with 1 year
 experience developing, testing, and maintaining enterprise software
